@@ -11,7 +11,7 @@ defaultTheme="dark"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
-
+#check
 [params]
   # LoveIt theme version
   version = "0.2.X"
