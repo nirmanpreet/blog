@@ -1,4 +1,24 @@
 ---
 label: front_temp
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
+- name: date
+  type: text
+  config:
+    required: false
+  label: date
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
