@@ -6,7 +6,7 @@ title: 'Home'
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/1?v=4" alt="Avatar" width="120" style="border-radius:50%;box-shadow:0 4px 16px #1c92d2aa;">
+<img src="https://gravatar.com/avatar/bfd1ed7dab854d1aa5f5c755114da46ccb6c85648373ed876eb322d4876fa731?v=1639790166000&size=256&d=initials" alt="Avatar" width="120" style="border-radius:50%;box-shadow:0 4px 16px #1c92d2aa;">
 
 # **Nirmanpreet Singh**
 
@@ -18,7 +18,7 @@ Focused on secure software development, ethical hacking, and cyber defense.
 ---
 
 <a href="https://github.com/nirmanpreet" target="_blank">GitHub</a> •
-<a href="mailto:nirmanpreet@email.com">Email</a>
+<a href="mailto:nirmanpreet@gmail.com">Email</a>
 
 ---
 
