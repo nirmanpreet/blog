@@ -1,0 +1,12 @@
+# Nirmanpreet Singh
+
+> <no value>
+
+
+## Blogs
+- [Ultimate Hugo + Hextra Formatting Showcase](https://nirmanpreet.com/blog/ultimate-showcase/): This test article demonstrates all formatting, shortcodes, and features supported by Hugo + Hextra. - Published 2025-09-06
+
+
+---
+Generated on 2025-09-12 01:44:58 UTC
+Site: https://nirmanpreet.com/

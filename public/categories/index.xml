@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nirmanpreet Singh – Categories</title>
+    <link>https://nirmanpreet.com/categories/</link>
+    <description>Recent content in Categories on Nirmanpreet Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://nirmanpreet.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
