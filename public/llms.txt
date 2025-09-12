@@ -4,9 +4,16 @@
 
 
 ## Blogs
-- [Ultimate Hugo + Hextra Formatting Showcase](https://nirmanpreet.com/blog/ultimate-showcase/): This test article demonstrates all formatting, shortcodes, and features supported by Hugo + Hextra. - Published 2025-09-06
+- [My Second Blog Post](http://localhost:1313/blog/post2/): This is a placeholder for my second blog post. I will add more content here soon! - Published 2025-09-05
+- [Ultimate Hugo + Hextra Formatting Showcase](http://localhost:1313/blog/ultimate-showcase/): This test article demonstrates all formatting, shortcodes, and features supported by Hugo + Hextra. - Published 2025-09-06
 
+## projects
+- [Test Project](http://localhost:1313/projects/test/): This is a placeholder for a test project. Please replace this content with details about your … - Published 2025-09-05
+
+
+## Root Pages
+- [Resume](http://localhost:1313/resume/): Visit my Github Visit my Instagram Send me an Email Visit my LinkedIn Nirmanpreet Singh Aspiring …
 
 ---
-Generated on 2025-09-12 01:44:58 UTC
-Site: https://nirmanpreet.com/
+Generated on 2025-09-12 20:44:14 UTC
+Site: http://localhost:1313/

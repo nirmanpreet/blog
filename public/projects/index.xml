@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nirmanpreet Singh – projects</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in projects on Nirmanpreet Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Sep 2025 20:04:44 +1000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Test Project</title>
+      <link>http://localhost:1313/projects/test/</link>
+      <pubDate>Fri, 05 Sep 2025 20:04:44 +1000</pubDate>
+      
+      <guid>http://localhost:1313/projects/test/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This is a placeholder for a test project. Please replace this content with details about your project.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
