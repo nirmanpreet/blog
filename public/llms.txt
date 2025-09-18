@@ -1,0 +1,18 @@
+# Nirmanpreet Singh
+
+> <no value>
+
+
+## Blogs
+- [Ultimate Hugo + Hextra Formatting Showcase](http://localhost:1313/blog/ultimate-showcase/): This test article demonstrates all formatting, shortcodes, and features supported by Hugo + Hextra. - Published 2025-09-06
+
+## projects
+- [Test Project](http://localhost:1313/projects/test/): This is a placeholder for a test project. Please replace this content with details about your … - Published 2025-09-05
+
+
+## Root Pages
+- [Resume](http://localhost:1313/resume/): Visit my Github Visit my Instagram Send me an Email Visit my LinkedIn Nirmanpreet Singh Aspiring …
+
+---
+Generated on 2025-09-19 02:01:26 UTC
+Site: http://localhost:1313/
