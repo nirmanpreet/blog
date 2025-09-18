@@ -1,5 +1,6 @@
 
 baseURL: "https://nirmanpreet.com"
+relativeURLs = true 
 title: Nirmanpreet Singh
 theme: [hextra]
 outputs:
